@@ -9,4 +9,4 @@ I used [this](https://forums.golfwrx.com/topic/1872776-strokes-gained-spreadshee
 - The ability to average any stat over any desired set of rounds
 - Timeseries and scatterplots that can be set to display any stat
 
-[Here](https://docs.google.com/spreadsheets/d/1qIocDwMujmPI7DJ_7OhB2iQLtrDQSNk7IsoE9D0EMQ4/edit?usp=sharing) is a viewable version of the spreadsheet I work in. 
+[Here](https://docs.google.com/spreadsheets/d/1qIocDwMujmPI7DJ_7OhB2iQLtrDQSNk7IsoE9D0EMQ4/edit?usp=sharing) is a viewable version of the spreadsheet I have been using since 2022.
