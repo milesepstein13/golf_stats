@@ -1,6 +1,6 @@
 # Golf Stats
 
-[Here](https://docs.google.com/spreadsheets/d/1qIocDwMujmPI7DJ_7OhB2iQLtrDQSNk7IsoE9D0EMQ4/edit?usp=sharing) is a Google Sheets spreadsheet that you can use to keep shot-, hole-, and round-level strokes gained statistics along with traditional stats. It is ready-to-use with detailed instructions to get started.
+[Here](https://docs.google.com/spreadsheets/d/1VHuDLV35KYgay-9cJm2DwvyIgcg3sPM7z3EBO8oTl5w/edit?usp=sharing) is a Google Sheets spreadsheet that you can use to keep shot-, hole-, and round-level strokes gained statistics along with traditional stats. It is ready-to-use with detailed instructions to get started.
 
 I used [this](https://forums.golfwrx.com/topic/1872776-strokes-gained-spreadsheet-free-and-easy-to-use/) spreadsheet, which calculates strokes gained statistics for a single round, as a jumping off point. I added the following features:
 - Tracking of traditional counting stats (fairways, greens, putts, driving distance, course information, handicap index, etc.)
